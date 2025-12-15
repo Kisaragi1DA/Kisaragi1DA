@@ -1,6 +1,6 @@
 ## Hi there, I'm Darien Alberto
 
-### :magnifying glass: **About me**
+**About me**
 
 + :pushpin: **Location:** _México, Querétaro_
 + :open_book: **Studies:** _Enviromental engineer_

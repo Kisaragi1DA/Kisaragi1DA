@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Darien Alberto
 
-<!--
-**Kisaragi1DA/Kisaragi1DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :magnifying glass: **About me**
 
-Here are some ideas to get you started:
++ :Thumbtack: **Location:** _México, Querétaro_
++ :Open book: **Studies:** _Enviromental engineer_
++ :seedling plant: **Current learning:** _Software development_ 
++ :game die: **Hobbies:** _Gym, Study programming, Anime and Videogames_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently starting out in the world of programming. I consider myself a very passionate person when it comes to learning new skills, and I aim to complete a new career in software development engineering to fully enter this fascinating and challenging field.
+
+### Contact
+
++ :Open mailbox with the flag up: **Email:** _nine.and.twelve@hotmail.com_ 
+
+### Activity
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Kisaragi1DA/miPrimerRepo)

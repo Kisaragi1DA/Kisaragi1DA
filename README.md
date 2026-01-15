@@ -18,3 +18,9 @@ I am currently starting out in the world of programming. I consider myself a ver
 ### Activity
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Kisaragi1DA/miPrimerRepo)
+
+### :zap: Actividad reciente
+
+<!--RECENT\_ACTIVITY:start-->
+
+<!--RECENT\_ACTIVITY:last\_update-->
